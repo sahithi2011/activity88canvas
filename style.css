@@ -1,0 +1,63 @@
+.body_backgorund {
+    background-image: url("bg6.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+  body{
+    cursor: pointer;
+  }
+  h1
+  {
+      color: rgb(0, 0, 0); 
+      font-size: 40px;
+  }
+  #myCanvas
+  {
+      border-width:10px;
+      background-color: white; 
+      border-style:ridge;
+  }
+
+  button {
+    background-color: #85d687;
+    border: solid, black;
+    border-style: double;
+    border-radius: 20px;
+    color: rgb(0, 0, 0);
+    padding: 10px 42px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times;
+  }
+
+  input
+  {
+    margin-right: 20px;
+  }
+
+  span{
+    font-size: 20px;
+  }
+
+  .topnav {
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #f07ad2;
+    color: white;}
+  
